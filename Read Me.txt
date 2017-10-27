@@ -1,0 +1,13 @@
+Technical Design Document
+*Game Idea
+Call to arms is a snake game with different theme as you play by warriors trying to recruit more warriors to win the battle 
+againist golems and other creatures(in future version we can put different kinds of monsters(Obstacles) with different mechanics like moving Obstacle and chaser Obstacle....)
+
+*Game Features
+2 levels
+Pc & Mobile Controls
+
+*3rd party Resources
+I used this tutorial 
+https://www.youtube.com/watch?v=0Kx7msnqjzw&list=PLWeGoBm1YHVhc51TYY7fTLNbA02qkyLrA&index=1
+to build up the basic snake mechanic then i added more feature like obstacle and sound and 3d models...
